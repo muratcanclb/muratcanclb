@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ### 📊 Statistics
 ***
-<p>&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muratcanclb&show_icons=true&theme=radical&locale=en" alt="muratcancelebi" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muratcanclb&show_icons=true&theme=radical&locale=en" alt="muratcanclb" /></p>
