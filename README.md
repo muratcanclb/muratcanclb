@@ -1,5 +1,5 @@
 
-<p align="center">&nbsp;&nbsp;&nbsp;&nbsp; Hi there 👋 </p>
+<h4 align="center">&nbsp;&nbsp;&nbsp;&nbsp; Hi there 👋 </h4>
 
 🌱 I’m currently learning Kotlin
 <!--
