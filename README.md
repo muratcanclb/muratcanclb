@@ -1,5 +1,5 @@
-###                <p>                                          &nbsp;&nbsp;&nbsp;&nbsp;  Hi there 👋</p>
 
+<p align="center">&nbsp;&nbsp;&nbsp;&nbsp; Hi there 👋 </p>
 <!--
 **muratcanclb/muratcanclb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ### 📊 Statistics
 ***
-<p>&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nanmicoder&show_icons=true&theme=radical&locale=en" alt="nanmicoder" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muratcanclb&show_icons=true&theme=radical&locale=en" alt="muratcancelebi" /></p>
