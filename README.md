@@ -1,7 +1,6 @@
 
 <h2 align="center">&nbsp;&nbsp;&nbsp;&nbsp; Hi there 👋 </h2>
 
-🌱 I’m currently learning Kotlin
 <!--
 **muratcanclb/muratcanclb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
